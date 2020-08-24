@@ -127,7 +127,7 @@ class GameState:
 			else:
 				print("Position Not Empty!!")
 
-
+print("Welcome TO Tic Tac Toe")
 game = GameState(3)
 game.run()
 
